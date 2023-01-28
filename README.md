@@ -21,3 +21,4 @@ All resources are listed in the cheat sheet and colab notebook itself
 
 # Colab Notebook Links:
 * PARTICIPANTS: https://colab.research.google.com/drive/1shkBhiHDZ78O8NsjZ5jTR0H_XESkBWFg?usp=sharing
+* SOLUTION: Will be here after workshop completed
