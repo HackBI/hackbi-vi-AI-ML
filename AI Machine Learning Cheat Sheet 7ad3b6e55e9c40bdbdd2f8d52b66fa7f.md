@@ -73,18 +73,18 @@ s can be any number (int or float) above 0. | plt.scatter(x_var, y_var, size = s
 
 🔹KNN w/ sklearn api: [https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 
-| Splitting dataset into:
-X_train: training data inputs
-X_test: testing data inputs
-y_train: training data outputs
-y_test: testing data outputs
-
-from:
-inputs: data of our chosen features
-output: data of our chosen label/class
-
-with: 
-test_size: the fraction of the dataset that you want to use for testing (usually 0.2)
+| Splitting dataset into: <br>
+X_train: training data inputs <br>
+X_test: testing data inputs <br>
+y_train: training data outputs <br>
+y_test: testing data outputs <br>
+<br>
+from: <br>
+inputs: data of our chosen features <br>
+output: data of our chosen label/class <br>
+<br>
+with:  <br>
+test_size: the fraction of the dataset that you want to use for testing (usually 0.2) <br>
 random_state = any int you want is fine. The same number will produce the same split every time. | X_train, X_test, y_train, y_test = train_test_split(inputs, output, test_size = 0.2, random_state = 42) |
 | --- | --- |
 | initialize a KNN Classifier, setting k (here k = 3) | model= KNeighborsClassifier(n_neighbors= 3) |
