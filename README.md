@@ -20,6 +20,6 @@ Teaching about the basics of machine learning, what data science, big data, and 
 All resources are listed in the cheat sheet and colab notebook itself
 
 # Colab Notebook Links:
-NOTE: Make sure to MAKE A COPY IN DRIVE
+**_NOTE_**: Make sure to MAKE A COPY IN DRIVE
 * PARTICIPANTS: https://colab.research.google.com/drive/1shkBhiHDZ78O8NsjZ5jTR0H_XESkBWFg?usp=sharing
 * SOLUTION: https://colab.research.google.com/drive/1au45n6GOfCmNjtQbEbfbWFzybl94Ez8d?usp=sharing
