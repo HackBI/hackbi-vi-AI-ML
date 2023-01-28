@@ -11,9 +11,7 @@
 
 🔹Check out the panda DataFrames api for more: [https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
 
-| Importing data from URL | data_url = “http://link goes here”
-
-df = pd.read_csv(data_url) |
+| Importing data from URL | data_url = “http://link goes here” <br> df = pd.read_csv(data_url) |
 | --- | --- |
 | Get first 5 rows of DataFrame | df.head() |
 | Get first n rows of DataFrame | df.head(n) |
