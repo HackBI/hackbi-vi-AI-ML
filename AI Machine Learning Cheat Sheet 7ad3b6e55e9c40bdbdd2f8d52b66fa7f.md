@@ -5,7 +5,7 @@
 | Pandas import | import pandas as pd  |
 | --- | --- |
 | sklearn import | from sklearn import datasets |
-| *installing pandas | !pip install pandas |
+| installing pandas | !pip install pandas |
 
 ### Panda DataFrames
 
